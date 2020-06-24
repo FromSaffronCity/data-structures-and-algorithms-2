@@ -1,0 +1,22 @@
+Evaluation for 2(a):
+
+for data set-15: best = 442 worst = 448 avg = 445
+for data set-17: best = 588 worst = 594 avg = 590
+for data set-19: best = 752 worst = 758 avg = 755
+for data set-21: best = 938 worst = 940 avg = 939
+
+
+Evaluation for 2(b):
+
+for data set-15: vc = 436  minVC = 420
+for data set-17: vc = 580  minVC = 560
+for data set-19: vc = 748  minVC = 720
+for data set-21: vc = 924  minVC = 900
+
+
+task-4: 
+
+node: 2	edge: 1
+
+node 0: 1 
+node 1: 0 
